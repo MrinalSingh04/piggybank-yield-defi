@@ -12,5 +12,5 @@ A simple yield-sharing PiggyBank smart contract built with Solidity 0.8.20.
 ## Tech
 
 - Solidity 0.8.20
-- Foundry for local deployment & testing
+- Foundry (forge, cast) for deployment and testing
 - Anvil as local blockchain
